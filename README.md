@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Management System
 
-This project is for a customer management system for
+This project is for a customer management system.
 
 ## Available Scripts
 
